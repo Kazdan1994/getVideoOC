@@ -1,7 +1,8 @@
 # getVideoOC
-Récupérer toutes vidéos OpenClassroom sur vimeo
 
-Nécessite le téléchargement de l'outil wget : 
+Récupérer les 884 vidéos d'OpenClassroom sur Vimeo
+
+L'utilisation de ce script nécessite le téléchargement de l'outil wget : 
 
 https://www.gnu.org/software/wget/
 
